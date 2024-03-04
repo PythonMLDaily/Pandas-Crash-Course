@@ -1,0 +1,37 @@
+[
+    {
+      "date": "2024-03-01",
+      "description": "Coffee at Starbucks",
+      "category": "Food & Drink",
+      "amount": -4.50,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-02-28",
+      "description": "Gasoline refill",
+      "category": "Transportation",
+      "amount": -35.75,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Amazon purchase: Book - 'The Intelligent Investor'",
+      "category": "Shopping",
+      "amount": -24.99,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-02-26",
+      "description": "Monthly rent payment",
+      "category": "Housing",
+      "amount": -1200.00,
+      "currency": "USD"
+    },
+    {
+      "date": "2024-02-25",
+      "description": "Dinner at Italian Restaurant",
+      "category": "Food & Drink",
+      "amount": -55.20,
+      "currency": "USD"
+    }
+]
